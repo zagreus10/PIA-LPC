@@ -2,7 +2,7 @@
 
 ## Descripción General del Repositorio
 
-Este repositorio contiene los scripts desarrollados por Johan Garay en el marco de las prácticas de scripting.
+Este repositorio contiene los scripts desarrollados por Johan Garay en el laboratio de programacion en ciberseguridad.
 
 ## Datos del Alumno
 
@@ -17,8 +17,9 @@ Este repositorio contiene los scripts desarrollados por Johan Garay en el marco 
 Esta sección se centra en el scripting utilizando PowerShell. Se incluyen scripts que abordan diversas tareas dentro del entorno de Microsoft.
 
 **Contenido:**
-- [script1.ps1](powershell/script1.ps1): Descripción del primer script.
-- [script2.ps1](powershell/script2.ps1): Descripción del segundo script.
+- [scan_alivev1.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_alivev1.ps1): Escaneo de equipos activos
+- [scan_alivev2.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_alivev2.ps1): Escaneo de equipos activos con impresion de procesos en pantalla
+- [scan_portv1.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_portv1.ps1): Escaneo de puertos de una direccion ip
 
 ---
 
