@@ -1,8 +1,6 @@
-# PIA LPC
-
 ## Descripción General del Repositorio
 
-Este repositorio contiene los scripts desarrollados por Johan Garay en el laboratio de programacion en ciberseguridad.
+Este repositorio contiene los scripts desarrollados por Johan Garay en el laboratio de programacion en ciberseguridad
 
 ## Datos del Alumno
 
@@ -14,54 +12,55 @@ Este repositorio contiene los scripts desarrollados por Johan Garay en el labora
 ## [Scripting en PowerShell](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/README.md)
 
 **Objetivo:**
-Esta sección se centra en el scripting utilizando PowerShell. Se incluyen scripts que abordan diversas tareas dentro del entorno de Microsoft.
+Esta sección se centra en el scripting utilizando PowerShell. Se incluyen scripts que abordan diversas tareas dentro del entorno de Microsoft
 
 **Contenido:**
-- [scan_alivev1.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_alivev1.ps1): Escaneo de equipos activos
-- [scan_alivev2.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_alivev2.ps1): Escaneo de equipos activos con impresion de procesos en pantalla
-- [scan_portv1.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_portv1.ps1): Escaneo de puertos de una direccion ip
+- [scan_alivev1.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_alivev1.ps1)
+- [scan_alivev2.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_alivev2.ps1)
+- [scan_portv1.ps1](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/scan_portv1.ps1)
 
 ---
 
-## [Scripting en Bash](bash/README.md)
+## [Scripting en Bash](https://github.com/zagreus10/PIA-LPC/blob/main/02%20-%20Scripting%20en%20Bash/README.md)
 
 **Objetivo:**
-En esta sección, se exploran scripts escritos en Bash para la automatización de tareas en entornos basados en Unix.
+En esta sección, se exploran scripts escritos en Bash para la automatización de tareas en entornos basados en Unix
 
 **Contenido:**
-- [script1.sh](bash/script1.sh): Descripción del primer script.
-- [script2.sh](bash/script2.sh): Descripción del segundo script.
+- [netdiscover.sh](https://github.com/zagreus10/PIA-LPC/blob/main/02%20-%20Scripting%20en%20Bash/netdiscover.sh)
+- [portscanv1.sh](https://github.com/zagreus10/PIA-LPC/blob/main/02%20-%20Scripting%20en%20Bash/portscanv1.sh)
+- [welcome.sh](https://github.com/zagreus10/PIA-LPC/blob/main/02%20-%20Scripting%20en%20Bash/welcome.sh)
+- [superscan.sh](https://github.com/zagreus10/PIA-LPC/blob/main/02%20-%20Scripting%20en%20Bash/superscan.sh)
 
 ---
 
-## [Webscraping](webscraping/README.md)
+## [Webscraping](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping%20(FALTA)/README.md)
 
 **Objetivo:**
-La sección de Webscraping se enfoca en la extracción de datos de sitios web utilizando herramientas específicas.
+La sección de Webscraping se enfoca en la extracción de datos de sitios web utilizando herramientas específicas
 
 **Contenido:**
-- [webscraper1.py](webscraping/webscraper1.py): Descripción del script de webscraping.
+- [scrap12.py](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping%20(FALTA)/scrap12.py)
+- [scrape_quote.py](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping%20(FALTA)/scrape_quote.py)
 
 ---
 
-## [Escáner de Puertos](port-scanner/README.md)
+## [Escáner de Puertos](https://github.com/zagreus10/PIA-LPC/blob/main/04%20-%20Escaner%20de%20puertos/README.md)
 
 **Objetivo:**
-Aquí se presentan scripts que realizan el escaneo de puertos en una red determinada.
+Aquí se presentan scripts que realizan el escaneo de puertos en una red determinada
 
 **Contenido:**
-- [portscanner1.py](port-scanner/portscanner1.py): Descripción del script de escáner de puertos.
+- [portscanner1.py](port-scanner/portscanner1.py): Descripción del script de escáner de puertos
 
 ---
 
-## [Envío de Correos](email-sender/README.md)
+## [Envío de Correos](https://github.com/zagreus10/PIA-LPC/blob/main/05%20-%20Envio%20de%20correos/README.md)
 
 **Objetivo:**
-Esta sección se dedica al envío de correos electrónicos mediante scripts.
+Esta sección se dedica al envío de correos electrónicos mediante scripts
 
 **Contenido:**
-- [emailsender1.py](email-sender/emailsender1.py): Descripción del script de envío de correos.
+- [envios.py](https://github.com/zagreus10/PIA-LPC/blob/main/05%20-%20Envio%20de%20correos/envios.py)
 
 ---
-
-Espero que esta plantilla sea útil para organizar tu README en GitHub. Puedes reemplazar los marcadores de posición con tus propios datos y descripciones específicas.
