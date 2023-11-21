@@ -40,8 +40,8 @@ En esta sección, se exploran scripts escritos en Bash para la automatización d
 La sección de Webscraping se enfoca en la extracción de datos de sitios web utilizando herramientas específicas
 
 **Contenido:**
-- [scrap12.py](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping%20(FALTA)/scrap12.py)
-- [scrape_quote.py](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping%20(FALTA)/scrape_quote.py)
+- [scrap12.py](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping/scrap12.py)
+- [scrape_quote.py](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping/scrape_quote.py)
 
 ---
 
