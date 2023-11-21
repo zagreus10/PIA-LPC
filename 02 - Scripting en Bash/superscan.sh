@@ -1,7 +1,5 @@
 #!/bin/bash
 #
-# Menú en BASH con opciones adicionales
-#
 date
 echo "||"
 echo "||===========================||"
