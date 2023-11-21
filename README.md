@@ -34,7 +34,7 @@ En esta sección, se exploran scripts escritos en Bash para la automatización d
 
 ---
 
-## [Webscraping](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping%20(FALTA)/README.md)
+## [Webscraping](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping/README.md)
 
 **Objetivo:**
 La sección de Webscraping se enfoca en la extracción de datos de sitios web utilizando herramientas específicas
@@ -58,7 +58,7 @@ Aquí se presentan scripts que realizan el escaneo de puertos en una red determi
 
 ---
 
-## [Envío de Correos](https://github.com/zagreus10/PIA-LPC/blob/main/03%20-%20Webscraping/README.md)
+## [Envío de Correos](https://github.com/zagreus10/PIA-LPC/blob/main/05%20-%20Envio%20de%20correos/README.md)
 
 **Objetivo:**
 Esta sección se dedica al envío de correos electrónicos mediante scripts
