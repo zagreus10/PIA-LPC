@@ -51,7 +51,10 @@ La sección de Webscraping se enfoca en la extracción de datos de sitios web ut
 Aquí se presentan scripts que realizan el escaneo de puertos en una red determinada
 
 **Contenido:**
-- [portscanner1.py](port-scanner/portscanner1.py): Descripción del script de escáner de puertos
+- [scan_portv1.py](https://github.com/zagreus10/PIA-LPC/blob/main/04%20-%20Escaner%20de%20puertos/scan_portv1.py)
+- [scan_portv2.py](https://github.com/zagreus10/PIA-LPC/blob/main/04%20-%20Escaner%20de%20puertos/scan_portv2.py)
+- [scan_portv3.py](https://github.com/zagreus10/PIA-LPC/blob/main/04%20-%20Escaner%20de%20puertos/scan_portv3.py)
+- [scan_portv4.py](https://github.com/zagreus10/PIA-LPC/blob/main/04%20-%20Escaner%20de%20puertos/scan_portv4.py)
 
 ---
 
