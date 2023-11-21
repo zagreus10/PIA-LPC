@@ -11,7 +11,7 @@ Este repositorio contiene los scripts desarrollados por Johan Garay en el marco 
 
 ---
 
-## [Scripting en PowerShell]01 - Scripting en Powershell/README.md](https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/README.md
+## [Scripting en PowerShell] https://github.com/zagreus10/PIA-LPC/blob/main/01%20-%20Scripting%20en%20Powershell/README.md
 
 **Objetivo:**
 Esta sección se centra en el scripting utilizando PowerShell. Se incluyen scripts que abordan diversas tareas dentro del entorno de Microsoft.
