@@ -12,10 +12,10 @@ correo_emisor = '...'
 contrasena = '...'
 
 # Destinatario
-correo_destinatario = 'gerardo.bernal@uanl.edu.mx'
+correo_destinatario = '...'
 
 # Ruta de la imagen
-ruta_imagen = 'C:/Users/jgara/OneDrive/Escritorio/FACULTAD/CUARTO SEMESTRE/LABORATORIO/012- ENVIO DE CORREOS/fcfm_cool.png'
+ruta_imagen = '...'
 
 # mensaje
 mensaje = MIMEMultipart()
